@@ -40,9 +40,9 @@ If the app is unavailable or a feature you paid for doesn't work for an extended
 
 Nothing in this policy limits rights you have under consumer-protection law. If you are in the EU, the UK or another country with a statutory right of withdrawal for digital purchases, Apple handles that right under its terms. Where the law allows, by subscribing you ask for immediate access to the app and acknowledge that this may affect your right of withdrawal once access has begun.
 
-## 7. Referral rewards
+## 7. Promotional offers
 
-Free months earned through the referral program are Apple offer codes with no cash value. They cannot be exchanged for money or refunded.
+Free time from promotional offer codes has no cash value. It cannot be exchanged for money or refunded.
 
 ## 8. Billing disputes
 

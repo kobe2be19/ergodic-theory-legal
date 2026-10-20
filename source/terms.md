@@ -10,7 +10,7 @@ slug: terms
 
 ## 1. Agreement
 
-These Terms of Service ("**Terms**") are a contract between you and {{COMPANY}}, a {{STATE}} limited liability company ("**we**", "**us**"). They cover the {{APP}} app, the website at {{SITE}}, the Ergodic Index and its data feeds, the free calculator, the referral program, and related services (the "**Services**").
+These Terms of Service ("**Terms**") are a contract between you and {{COMPANY}}, a {{STATE}} limited liability company ("**we**", "**us**"). They cover the {{APP}} app, the website at {{SITE}}, the Ergodic Index and its data feeds, the free calculator, and related services (the "**Services**").
 
 Your use of the iPhone app is also governed by our [Terms of Use (EULA)](/eula), which incorporates these Terms. Our [Privacy Policy](/privacy) explains how we handle information, and our [Refund Policy](/refunds) explains billing and refunds. If these Terms and the EULA conflict about the app, the EULA controls.
 
@@ -58,16 +58,9 @@ Full access to the app requires a paid, auto-renewing subscription, currently {{
 
 We do not receive or store your payment details. Refunds are covered in our [Refund Policy](/refunds).
 
-## 8. Referral program
+## 8. Promotional offers
 
-Subscribers may receive a referral code. If another person who has an active paid subscription enters your code in the app, you may receive a reward, currently one free month delivered as an Apple subscription offer code. The following conditions apply:
-
-- each subscriber may enter only one referral code, and may not enter their own;
-- rewards have no cash value, are not transferable, cannot be exchanged or sold, and are redeemed through Apple under Apple's terms;
-- if our supply of offer codes is temporarily exhausted, earned rewards are recorded as pending and delivered when supply is restored;
-- you may share your code only with people you know, or in your own non-commercial posts. Spam, paid advertising that uses our name, misleading claims, incentivized or fake sign-ups, multiple accounts, and any other abuse are prohibited;
-- we may withhold or reverse rewards obtained in violation of these Terms, and may change, limit or end the program at any time. Rewards already delivered stay valid under Apple's terms;
-- the program is void where prohibited. You are responsible for any taxes on rewards.
+We may occasionally offer promotional pricing or free time through Apple's subscription offer codes or similar App Store features. Promotional offers are governed by Apple's terms, have no cash value, cannot be exchanged or transferred, and may be changed or ended at any time. Offers already redeemed remain valid under Apple's terms.
 
 ## 9. Acceptable use
 

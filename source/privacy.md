@@ -37,10 +37,9 @@ This information is not transmitted to us or to anyone else. Notifications for y
 
 | What | Details | Why |
 |---|---|---|
-| **Anonymous app ID ("Support ID")** | A random identifier created by our subscription provider, RevenueCat, when you first open the app. It is not derived from your name, email, Apple ID or device hardware. It is sent with each request the app makes to our server. | To confirm your subscription is active, to run the referral program, and to help you if you contact support. |
+| **Anonymous app ID ("Support ID")** | A random identifier created by our subscription provider, RevenueCat, when you first open the app. It is not derived from your name, email, Apple ID or device hardware. It is sent with each request the app makes to our server. | To confirm your subscription is active and to help you if you contact support. |
 | **Subscription information** | Through Apple and RevenueCat: the product you bought, purchase and renewal dates, whether the subscription is active, the store country and currency, and transaction identifiers. | To give you access to what you paid for and to handle restores, refunds and support. |
 | **Request information** | When the app or a browser contacts our server: the coins whose data is requested (for example, Bitcoin prices), IP address, approximate location derived from it, device and network information, and the time of the request. | To deliver market data and forecasts, to keep the Services secure and working, and to prevent abuse. |
-| **Referral information** | Your six-character referral code and the anonymous ID it belongs to; the anonymous ID of anyone who enters a code; how many people used your code; reward codes issued to you and when. | To run the referral program and prevent abuse. |
 | **Support messages** | If you email us: your email address, what you write, and anything you include (such as your Support ID, app version and device model). | To answer you. |
 
 We do **not** collect your name, email address (unless you email us), phone number, contacts, photos, precise location, exchange accounts, wallet addresses, API keys, or the positions and holdings you enter in the app.
@@ -59,7 +58,7 @@ The Services are intended only for adults aged 18 or older (or the age of majori
 
 We use the information above only to:
 
-1. provide the Services, including verifying subscriptions, delivering market data and forecasts, and running the referral program;
+1. provide the Services, including verifying subscriptions and delivering market data and forecasts;
 2. secure the Services, detect and prevent fraud, abuse and security incidents, and debug errors;
 3. respond to support requests and to requests about your rights;
 4. comply with law, enforce our terms, and protect our rights and those of others.
@@ -94,7 +93,6 @@ We disclose information only to:
 |---|---|
 | Subscription check result (whether an ID is active) | Cached for up to 15 minutes |
 | Request information in our server's and Cloudflare's logs | Generally no more than 30 days, unless longer is needed to investigate a security incident or abuse |
-| Referral records | As long as the referral program runs and your code is in use, and deleted within 24 months after your last referral activity, or sooner on request |
 | Subscription records at RevenueCat | For the life of the app account and as required for tax, accounting and refund purposes, then deleted or anonymized |
 | Support emails | Up to 3 years after the conversation ends, unless law requires longer |
 | Data on your device | Until you delete it in the app (**Support & legal → Delete data on this phone**) or delete the app |
